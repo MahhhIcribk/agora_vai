@@ -1,11 +1,3 @@
-@charset "UTF-8";
-
-@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
-/*font-family: 'Passion One', cursive;*/
-
-@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
-/*font-family: 'Sriracha', cursive;*/
-
 * {
     margin: 0px;
     padding: 0px;
@@ -28,7 +20,7 @@ header > h1 {
     padding-top: 50px;
     /*text-transform: uppercase; = colocar todas maiúsculas*/
     font-variant: small-caps; /* as letras ficam nos formatos maiúsculo, mas n fica maiúscula.*/
-    font-family: 'Passion One', cursive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 10vw;
 }
 
@@ -51,7 +43,7 @@ section {
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 35px;
-    font-family: 'Sriracha', cursive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 3vw;
 }
 
@@ -79,7 +71,7 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url(imagens/background001.jpg);
+    background-image: url(background001.jpg);
     background-position: center center;
 }
 
