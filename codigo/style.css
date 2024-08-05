@@ -21,7 +21,6 @@ header > h1 {
     /*text-transform: uppercase; = colocar todas maiúsculas*/
     font-variant: small-caps; /* as letras ficam nos formatos maiúsculo, mas n fica maiúscula.*/
     font-family: arial
-    font-size: 10vw;
 }
 
 header > p {
